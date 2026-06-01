@@ -51,14 +51,6 @@ The goal was to build a complete interactive game using the Python concepts lear
 
 Add screenshots of your game here.
 
-## 🚀 Future Improvements
-
-- More questions
-- Difficulty levels
-- Sound effects
-- High-score system
-- Animated transitions
-
 ## 👨‍💻 Author
 
 **Diego Lasso**
