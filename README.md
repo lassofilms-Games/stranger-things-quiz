@@ -47,8 +47,6 @@ The goal was to build a complete interactive game using the Python concepts lear
 
 ## 📸 Screenshots
 
-  ## Screenshot
-
 ![Stranger Things Quiz](screenshot.png)
 
 ## 👨‍💻 Author
