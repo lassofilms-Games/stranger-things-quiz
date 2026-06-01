@@ -29,9 +29,7 @@ The goal was to build a complete interactive game using the Python concepts lear
 - Custom graphics and assets
 - Easy to play
 
-  ## Screenshot
 
-![Stranger Things Quiz](screenshot.png)
 
 ## 🕹️ How to Play
 
@@ -49,7 +47,9 @@ The goal was to build a complete interactive game using the Python concepts lear
 
 ## 📸 Screenshots
 
-Add screenshots of your game here.
+  ## Screenshot
+
+![Stranger Things Quiz](screenshot.png)
 
 ## 👨‍💻 Author
 
